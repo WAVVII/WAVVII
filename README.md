@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kayode Adekitan</h1>
+<h1 align="center">Hi 👋, I'm Tobi Adekitan</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wavvii&label=Profile%20views&color=0e75b6&style=flat" alt="wavvii" /> </p>
@@ -15,9 +15,9 @@
 
 - 💬 Ask me about **react or standard html & javascript**
 
-- 📫 How to reach me **kayodsade28@gmail.com**
+- 📫 How to reach me **tobiade2012@gmail.com**
 
-- ⚡ Fun fact **I Started Web Development at the age of 14**
+- ⚡ Fun fact **I Started Web Development at the age of 8**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
